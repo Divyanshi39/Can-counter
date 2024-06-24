@@ -4,7 +4,7 @@ This repository contains the implementation of a computer vision-based solution 
 #Features  
 **Data Preparation:** Extracts frames from CCTV footage and labels them using YOLOv8 for object detection.  
 **Model Training:** Trains the YOLOv8 model for accurate can detection under various conditions.  
-**Counting Logic: **Implements a point-in-polygon algorithm to count cans within a specific area on the conveyor belt.  
+**Counting Logic:** Implements a point-in-polygon algorithm to count cans within a specific area on the conveyor belt.  
 **Real-Time Processing:** Processes video frames in real-time, overlaying bounding boxes, unique tracking IDs, and count information.  
 **Result Visualization:** Saves annotated videos for verification purposes.
 
